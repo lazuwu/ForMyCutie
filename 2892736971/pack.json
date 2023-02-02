@@ -1,0 +1,9 @@
+{
+    "Name": "Astralix UI",
+    "Author": "Nx",
+    "Description": "'Enamor yourself with a galaxy, powered by violet and cyan'",
+    "Version": {
+        "major": 1,
+        "minor": 3
+    }
+}
